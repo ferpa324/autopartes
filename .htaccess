@@ -1,6 +1,1 @@
-DirectoryIndex index.php
-
-<Files .env>
-    Order allow,deny
-    Deny from all
-</Files>
+Deny from all
